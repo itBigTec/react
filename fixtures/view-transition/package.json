@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@babel/register": "^7.25.9",
-    "express": "^4.14.0",
+    "express": "^5.0.0",
     "ignore-styles": "^5.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
